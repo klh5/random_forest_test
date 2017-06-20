@@ -1,0 +1,1 @@
+Code for a tutorial on Random Forest using Python, at http://www.analyticbridge.datasciencecentral.com/profiles/blogs/random-forest-in-python. Divides the CSV file into a training and a testing set before running the classifier.
